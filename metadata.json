@@ -1,0 +1,7 @@
+{
+  "name": "Disaster Preparedness and Community Resilience Hub",
+  "description": "An application to help users create disaster preparedness kits, family emergency plans, and get information about local risks to enhance community resilience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
